@@ -1,0 +1,17 @@
+{
+  "name": "ValorServices-",
+  "homepage": "https://github.com/Bp3289/ValorServices-",
+  "authors": [
+    "YOUR-USERNAME <YOUR-EMAIL-ADDRESS>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
