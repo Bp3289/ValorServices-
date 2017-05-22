@@ -113,6 +113,10 @@ body {
   margin-top: -100px;
 }
 
+#more {
+  color: green;
+}
+
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
