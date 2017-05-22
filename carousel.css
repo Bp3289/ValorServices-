@@ -78,6 +78,7 @@ body {
 }
 #pat {
   background-color: black;
+  color: red;
 }
 
 
@@ -94,6 +95,10 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
+}
+
+#welcome {
+  margin-top: 100px;
 }
 
 
