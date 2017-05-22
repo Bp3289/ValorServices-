@@ -101,6 +101,11 @@ body {
   margin-top: 100px;
 }
 
+#luke {
+  margin-top: -100px;
+
+}
+
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
