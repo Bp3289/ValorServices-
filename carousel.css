@@ -63,8 +63,15 @@ body {
   height: 500px;
 }
 
+/*.slide {
+  padding:1px;
+  border: 2px solid #021a40;
+  
+}*/
+
 .para {
   color: #f4f3f5;
+  font-weight: 900px;
 }
 
 #second-slide-text {
