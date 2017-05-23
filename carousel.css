@@ -32,6 +32,9 @@ body {
 .navbar-wrapper .navbar .container {
   width: auto;
 }
+ #nav {
+
+ }
 
 
 /* CUSTOMIZE THE CAROUSEL
@@ -60,6 +63,9 @@ body {
   height: 500px;
 }
 
+.para {
+  color: #333;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
